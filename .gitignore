@@ -1,0 +1,18 @@
+# 对话日志
+chat_*.jsonl
+
+# 生成的技能（由 agent 生成）
+# skills/
+
+# 经验积累（由 agent 生成）
+# LEARNINGS.md
+
+# 临时文件
+*.tmp
+.DS_Store
+
+# 管道
+/tmp/a2b
+/tmp/b2a
+
+.private/
